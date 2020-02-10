@@ -1,7 +1,7 @@
 
 # Flutter BMI Calculator
 
-****this example of app focus on UI (design beauty theme)**
+**this example of app focus on UI (design beauty theme)**
 
 
 ***screenshot:***
